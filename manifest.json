@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "version": "2",
+  "name": "Trying",
+  "action": {
+      "default_popup": "index.html",
+      "default_icon": "Miku.png"
+  },
+  "permissions":["tabs"]
+}
